@@ -9,7 +9,8 @@ Secure login system for administrators and users.
 Users can upload various file types (PDF, DOCX, etc.). 
 # File Categorization: 
 Organize files by categories and tags for easy retrieval. 
-# Search Functionality: Quickly find files using a robust search feature. 
+# Search Functionality: 
+Quickly find files using a robust search feature. 
 # User Roles: 
 Different access levels for administrators and regular users. 
 # Activity Logging: 
