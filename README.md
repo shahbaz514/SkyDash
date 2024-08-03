@@ -15,5 +15,6 @@ Quickly find files using a robust search feature.
 Different access levels for administrators and regular users. 
 # Activity Logging: 
 Track file uploads, downloads, and other activities. 
-# Responsive Design: Accessible on both desktop and mobile devices. 
+# Responsive Design: 
+Accessible on both desktop and mobile devices. 
 
